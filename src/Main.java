@@ -8,5 +8,6 @@ public class Main {
         } while (number / 10 != 0);
 
         System.out.println(number);
+        System.out.println(number);
     }
 }
